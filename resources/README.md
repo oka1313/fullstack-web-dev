@@ -7,7 +7,7 @@
 
 | 제목 | 설명 | 링크 |
 |------|------|------|
-| POSTGRES 모델링 | POSTGRES 데이터 모델을 통한 SQL과 데이터 모델링에 대해 소개한다. | [읽기](readings/POSTGRES-모델링.md) |
+| POSTGRES 모델링 | POSTGRES 데이터 모델을 통한 SQL과 데이터 모델링에 대해 소개한다. | [읽기](readings/POSTGRES_모델링.md) |
 
 <br />
 
