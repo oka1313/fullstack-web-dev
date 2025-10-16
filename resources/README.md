@@ -8,6 +8,8 @@
 | 제목 | 설명 | 링크 |
 |------|------|------|
 | POSTGRES 모델링 | POSTGRES 데이터 모델을 통한 SQL과 데이터 모델링에 대해 소개한다. | [읽기](readings/POSTGRES_모델링.md) |
+| Udacity 관계형 DB 입문 | Udacity 무료 강좌, 관계형 DB 기본 개념 학습 | [보기](https://www.udacity.com/org/puroomnet/course/intro-to-relational-databases--ud197) |
+| 관계형 데이터베이스 소개 영상 | YouTube 영상, 관계형 DB 개념 및 데이터 무결성, 기본 키 등 소개 | [보기](https://www.youtube.com/watch?v=z2kbsG8zsLM) |
 
 <br />
 
@@ -24,6 +26,7 @@
 
 | 제목 | 설명 | 링크 |
 |------|------|------|
+| postgres psql cheat sheet | Postgres DB 생성/삭제/리셋 명령어 및 psql 주요 명령어 정리 | [보기](./cheatsheets/postgres-psql.md) |
 <!-- | SQL Joins Cheatsheet | JOIN 종류별 예시 및 다이어그램 | [보기](./cheatsheets/sql-joins.pdf) |
 | Flask Quickstart | Flask 기본 라우팅, 요청/응답 샘플 정리 | [보기](./cheatsheets/flask-quickstart.md) | -->
 
