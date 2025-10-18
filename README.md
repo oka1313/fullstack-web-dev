@@ -30,19 +30,17 @@ udacity-fullstack-web-dev/
 ## 📚 강의 노트
 
 ### 코스 1: 프로그램 소개
-
-- [풀스택 웹 개발자 나노디그리 프로그램에 오신 것을 환영합니다](./notes/01-program-intro/welcome.md)
+- 풀스택 웹 개발자 나노디그리 프로그램에 오신 것을 환영합니다
 
 ### 코스 2: 웹용 SQL 및 데이터 모델링
-
-- [강사 인터뷰](./notes/02-web-sql/instructor-interview.md)
-- [강의 소개](./notes/02-web-sql/course-intro.md)
-- [데이터베이스의 상호 작용](./notes/02-web-sql/database-interaction.md)
-- [SQLAlchemy 기본 개념](./notes/02-web-sql/sqlalchemy-basics.md)
-- [SQLAlchemy ORM에 대한 심층 수업](./notes/02-web-sql/sqlalchemy-orm-deep-dive.md)
-- [마이그레이션](./notes/02-web-sql/migration.md)
-- [Build a CRUD App with SQLAlchemy - Part 1](./notes/02-web-sql/crud-app-part1.md)
-- [SQLAlchemy ORM으로 CRUD 앱 구축하기 - 파트 2](./notes/02-web-sql/crud-app-part2.md)
+- 2.1 강사 인터뷰
+- [2.2 강좌 소개](notes/2_웹용_SQL_및_데이터_모델링/2.2_강좌_소개)
+- [2.3 데이터베이스의 상호 작용](notes/2_웹용_SQL_및_데이터_모델링/2.3_데이터베이스와의_상호_작용)
+- [2.4 SQLAlchemy 기본 개념](./notes/02-web-sql/sqlalchemy-basics.md)
+- [2.5 SQLAlchemy ORM에 대한 심층 수업](./notes/02-web-sql/sqlalchemy-orm-deep-dive.md)
+- [2.6 마이그레이션](./notes/02-web-sql/migration.md)
+- [2.7 Build a CRUD App with SQLAlchemy - Part 1](./notes/02-web-sql/crud-app-part1.md)
+- [2.8 SQLAlchemy ORM으로 CRUD 앱 구축하기 - 파트 2](./notes/02-web-sql/crud-app-part2.md)
 - **프로젝트: Fyyur**
 
 ### 코스 3: API 개발 및 문서화
